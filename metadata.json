@@ -8,6 +8,5 @@
   "personal": false,
   "thumbnail": null,
   "technologies": ["js", "node", "express", "mongodb", "mongoose"],
-  "status": "complete",
   "priority": "done"
 }
